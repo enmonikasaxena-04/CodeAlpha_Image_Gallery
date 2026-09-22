@@ -28,7 +28,7 @@ https://github.com/enmonikasaxena-04/CodeAlpha_Image_Gallery
 ## 🎥 Project Demo
 
 📹 LinkedIn Demo Video:
-https://lnkd.in/p/gDUQZ4pF
+https://lnkd.in/p/gWY-wK3v
 ---
 
 ## 📸 Screenshots
