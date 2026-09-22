@@ -25,6 +25,10 @@ https://enmonikasaxena-04.github.io/CodeAlpha_Image_Gallery/
 
 https://github.com/enmonikasaxena-04/CodeAlpha_Image_Gallery
 
+## 🎥 Project Demo
+
+📹 LinkedIn Demo Video:
+https://lnkd.in/p/gDUQZ4pF
 ---
 
 ## 📸 Screenshots
