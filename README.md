@@ -45,4 +45,6 @@ https://lnkd.in/p/gDUQZ4pF
 ### ✨ Lightbox View
 ![Lightbox](WhatsApp%20Image%202026-09-22%20at%2019.11.02.jpeg)
 
-*Developed by Monika Saxena*
+## 👩‍💻 Author
+
+*Monika Saxena* 💙
